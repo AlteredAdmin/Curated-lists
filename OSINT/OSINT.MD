@@ -1,5 +1,100 @@
 # **Useful List of Tools and Links for OSINT Research**
 
+
+## Training
+- [LibGuides: Intelligence Studies: Open-Source Intelligence (OSINT)](https://usnwc.libguides.com/c.php?g=494120&p=3420732) -
+- [OSINT: How to find information on anyone](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56) -
+- [Magma.lavafeld.org](https://magma.lavafeld.org/) -
+- [Learn â€“ Google Earth OutreachGroupfacebooktwitter](https://www.google.com/earth/outreach/learn/) -
+- [Investigations KIT](https://kit.exposingtheinvisible.org/) -
+- [BIRD - BIRN Investigative Resource Desk](https://bird.tools/) -
+- [Bird.tools](https://bird.tools/) -
+- [Security Education Companion](https://sec.eff.org/) -
+- [Detecting Fake Viral Stories Before They Become Viral Using FB API - By Florin Badita](https://hackernoon.com/detecting-fake-viral-stories-before-they-become-viral-using-fb-api-f67a18cd4f0a?source=rss) -
+- [Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/) -
+- [Intro to I2P](https://medium.com/@mhatta/have-fun-with-i2p-the-2018-edition-6ed61af3ad79) -
+- [We are OSINTCurio.us](https://osintcurio.us/) -
+- [OSINT Handbook 2018](https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf) -
+- [Exposing the Invisible](https://exposingtheinvisible.org/) -
+- [CaseFile â€“ Visualization of Information](https://corma.de/en/casefile-visualization-of-information-investigation/) -
+- [Verification Handbook: homepage](https://verificationhandbook.com/) -
+- [comp3321 NSA Python Training Document : NSA : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/comp3321/page/n5/mode/2up/search/device) -
+- [Research Clinic](http://www.researchclinic.net/) -
+- [CNS New Tools Courseware Portfolio â€“ Learn. Investigate. Discover.](https://learn-new-tools.org/) -
+- [Dark Web Tools](https://iaca-darkweb-tools.com/) -
+- [GIJN - Toolbox](https://gijn.org/2018/11/07/gijn-toolbox/) -
+- [European Country of Origin Information Network](https://www.ecoi.net/en/coi-resources/training/) -
+- [Coronavirus: Resources for reporters - First DraftCoronavirus: Resources for reporters - First Draft](https://firstdraftnews.org/long-form-article/coronavirus-resources-for-reporters/) -
+- [VIS](https://vis.occrp.org/) -
+- [Kumu](https://kumu.io/) -
+- [bellingcat - A Beginner's Guide To Flight Tracking - bellingcat](https://www.bellingcat.com/resources/how-tos/2019/10/15/a-beginners-guide-to-flight-tracking/) -
+- [bellingcat - How To Tell Stories: A Beginner's Guide For Open Source Researchers - bellingcat](https://www.bellingcat.com/resources/2019/07/12/how-to-tell-stories-a-beginners-guide-for-open-source-researchers/) -
+- [Open-Source Intelligence (OSINT) - Intelligence Studies - LibGuides at Naval War College](https://usnwc.libguides.com/c.php?g=494120&p=3420732) -
+- [The Most Comprehensive TweetDeck Research Guide In Existence (Probably)](https://www.bellingcat.com/resources/how-tos/2019/06/21/the-most-comprehensive-tweetdeck-research-guide-in-existence-probably/) -
+- [https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf](https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf) -
+- [Getting Started With Spiderfoot â€“ A Beginnerâ€™s Guide â€“ NixIntel](https://nixintel.info/osint-tools/getting-started-with-spiderfoot/) -
+- [OSINT on the Ocean: Maritime Intelligence Gathering Techniques â€“ Rae BakerInvite to discussScroll Top](https://www.peerlyst.com/posts/osint-on-the-ocean-maritime-intelligence-gathering-techniques-rae-baker) -
+- [https://corporatewatch.org/wp-content/uploads/2017/09/Investigating-Companies-Corporate-Watch.pdf](https://corporatewatch.org/wp-content/uploads/2017/09/Investigating-Companies-Corporate-Watch.pdf) -
+- [https://www.journaliststoolbox.org/2020/01/22/online_journalism/](https://www.journaliststoolbox.org/2020/01/22/online_journalism/) -
+- [My Favorite Tools: Lionel Faull - Global Investigative Journalism Network](https://gijn.org/2020/01/21/my-favorite-tools-lionel-faull/) -
+- [Data Journalism : / Help Desk](https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism) -
+- [Education | Sentinel Hub](https://www.sentinel-hub.com/explore/education) -
+- [Draw.io](https://www.draw.io/) -
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/) -
+- [Learn â€“ Google Earth OutreachGroupfacebooktwitter](https://www.google.com/earth/outreach/learn/) -
+- [Learn â€“ Google Earth OutreachGroupfacebooktwitter](https://www.google.com/earth/outreach/learn/) -
+- [Osinteditor.com](http://www.osinteditor.com/) -
+- [Violations de lâ€™embargo sur les armes en Libye â€“ Guide mÃ©thodologique | OpenFacto](https://t.co/0NG2oyTpAw?amp=1) -
+- [Problem-Solving Techniques](https://www.mindtools.com/pages/main/newMN_TMC.htm) -
+- [Country & Area Assessments](https://www.osintcombine.com/post/country-area-assessments) -
+- [OSINT Collection Schema](https://www.osintcombine.com/post/osint-collection-schema) -
+- [Corporate Profiling](https://www.osintcombine.com/post/corporate-profiling-advanced-linkedin-searching-more) -
+- [Naming conventions internationally](https://www.fbiic.gov/public/2008/nov/Naming_practice_guide_UK_2006.pdf) -
+- [Walkthrough: Tracking the spread of the debunked Plandemic video](https://dfrlab.github.io/Plandemic/) -
+- [https://www.social-engineer.org/framework/general-discussion/](https://www.social-engineer.org/framework/general-discussion/) -
+- [https://medium.com/@zacherytysonbrown/write-like-an-intelligence-analyst-34d06738d2ef](https://medium.com/@zacherytysonbrown/write-like-an-intelligence-analyst-34d06738d2ef) -
+- [Intelligence Writing - Writing - LibGuides at Embry-Riddle Aeronautical University - Prescott Campus](https://erau.libguides.com/c.php?g=331035&p=2222278) -
+- [Sources And Methods](https://sourcesandmethods.blogspot.com/) -
+- [Tutorial - Maltego](https://www.maltego.com/categories/tutorial/) -
+- [US 2020 Dashboard: Live insights on information disorderUS 2020 Dashboard: Live insights on information disorder](https://firstdraftnews.org/dashboard-insights/) -
+- [Military Wiki](https://military.wikia.org/wiki/Main_Page) -
+- [Intelligence Online](https://www.intelligenceonline.com/) -
+- [OSINT Iran: passive reconnaissance of Iranian IP space, IoT, WiFi networks, social media and more â€“ osintme.com](https://web.archive.org/web/20210206085713/https://www.osintme.com/index.php/2020/12/23/osint-iran-passive-reconnaissance-of-iranian-ip-space-iot-wifi-networks-social-media-and-more/) -
+- [Overview of Corporate Research Articles - OSINTEditor](https://www.osinteditor.com/general/overview-of-corporate-research-articles/) -
+- [bird.tools/wp-content/uploads/2019/12/13082019_Osint-guide_v2fin.1.pdf](https://bird.tools/wp-content/uploads/2019/12/13082019_Osint-guide_v2fin.1.pdf) -
+- [GeoGuessr- The Top Tips, Tricks and Techniques | Random Stuff](https://web.archive.org/web/20210212090412/https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) -
+- [https://github.com/matteo-grella/tweetdeck-scraper](https://github.com/matteo-grella/tweetdeck-scraper) -
+- [Sponsor @anvaka on GitHub Sponsors Â· GitHub](https://github.com/sponsors/anvaka) -
+- [www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf) -
+- [www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf](https://www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf) -
+- [D3Js](https://d3js.org/) -
+- [Critical Thinking](https://www.criticalthinking.org/) -
+- [Google's Python Class | Python Education | Google Developers](https://developers.google.com/edu/python/) -
+- [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) -
+- [Static and dynamic network visualization with R](https://kateto.net/network-visualization) -
+- [DataJournalism.com](https://datajournalism.com/) -
+- []() -
+- [Manipulated Media](https://www.reuters.com/manipulatedmedia) -
+- [Audio Fakes](https://motherboard.vice.com/en_us/article/3k7mgn/baidu-deep-voice-software-can-clone-anyones-voice-with-just-37-seconds-of-audio) -
+- [Magma.lavafeld.org](https://magma.lavafeld.org/) -
+- [Deepfakes Club](https://www.deepfakes.club/) -
+- [GitHub - DFRLab/Dichotomies-of-Disinformation](https://github.com/DFRLab/Dichotomies-of-Disinformation) -
+- [Project Voco](https://www.bbc.co.uk/news/technology-37899902) -
+- [Data Visualizer | Jigsaw](http://jigsaw.google.com/the-current/disinformation/dataviz/) -
+- [Fake news. It's complicated.Fake news. It's complicated.](https://firstdraftnews.org/latest/fake-news-complicated/) -
+- [OSoMe: Social Media Observatory](https://osome.iuni.iu.edu/tools/) -
+- [Hamilton Monitored Accounts on Twitter â€“ Alliance For Securing Democracy](https://securingdemocracy.gmfus.org/hamilton-monitored-accounts-on-twitter/) -
+- [Hamilton 2.0 Dashboard](https://securingdemocracy.gmfus.org/hamilton-dashboard/) -
+- [FSI - New White Paper on GRU Online Operations Puts Spotlight on Pseudo-Think Tanks and Personas](https://fsi.stanford.edu/news/potemkin-pages-personas-blog) -
+- [Open-Source Intelligence (OSINT) - Intelligence Studies - LibGuides at Naval War College](https://usnwc.libguides.com/c.php?g=494120&p=3420732) -
+- [Walkthrough: Tracking the spread of the debunked Plandemic video](https://dfrlab.github.io/Plandemic/) -
+- [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/) -
+- [GeoGuessr- The Top Tips, Tricks and Techniques](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) -
+- [What's Being Done to Fight Disinformation Online](https://www.rand.org/research/projects/truth-decay/fighting-disinformation.html) -
+- [Tools That Fight Disinformation Online](https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search.html) -
+- [Newsguardtech.com](https://www.newsguardtech.com/) -
+- [https://iffy.news/iffy-plus/](https://iffy.news/iffy-plus/) -
+
 ## Company Information
 **Databases containing company information.**
 
@@ -141,4 +236,5 @@
 - [Aerialphotosearch.com](https://www.aerialphotosearch.com/) -
 - [Aktuelle Luftbilder, Luftaufnahmen aus Deutschland & Europa](https://www.euroluftbild.de/) -
 
+## Maritime
 

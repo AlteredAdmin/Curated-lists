@@ -268,4 +268,20 @@
 - [Aktuelle Luftbilder, Luftaufnahmen aus Deutschland & Europa](https://www.euroluftbild.de/) -
 
 ## Maritime
-
+- [Marine Traffic](https://www.marinetraffic.com/) -
+- [ShipmentLink](https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do) -
+- [Chinese Navy Surface Units – Current and Retired – The Searchers](https://warsearcher.com/shipsearcher/chinese-navy-surface-units-current-and-retired-under-construction/) -
+- [Vessel Tracker](https://www.vesseltracker.com/) -
+- [Vessel Finder](https://www.vesselfinder.com/) -
+- [Shipfinder](http://www.shipfinder.com/) -
+- [Shipfinder](http://shipfinder.co/) -
+- [Ship Spotting](http://www.shipspotting.com/) -
+- [ShipAIS](http://www.shipais.com/) -
+- [Ais Decoder](http://arundale.com/docs/ais/ais_decoder.html) -
+- [TankerTrackers](http://tankertrackers.com/#/) -
+- [LocalizaTodo HTML5](http://www.localizatodo.com/html5/) -
+- [Fleetmon](https://www.fleetmon.com/services/live-tracking/fleetmon-explorer/) -
+- [Equasis](http://www.equasis.org/EquasisWeb/public/HomePage) -
+- [Crewdata.com](https://crewdata.com/) -
+- [Jobs At Sea](http://maritime-connector.com/) -
+- [Military Ship Tracker](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html) -

@@ -119,6 +119,37 @@
 - [Business Monitor](https://business-monitor.ch/en) -
 - [aleph.occrp.org](https://aleph.occrp.org/) -
 
+## General Search engines
+
+- [Searchenginesindex.com](https://searchenginesindex.com/) -
+- [The Search Engine Map](https://www.searchenginemap.com/) -
+- [Google Factcheck Explorer](https://toolbox.google.com/factcheck/explorer) -
+- [Interactive online Google tutorial and references](http://www.googleguide.com/) -
+- [I Search From](http://isearchfrom.com/) -
+- [Google.com](https://google.com/) -
+- [The Importance of Excluding Words When Setting Up Google Alerts](https://researchbuzz.me/2018/02/28/the-importance-of-excluding-words-when-setting-up-google-alerts/) -
+- [DuckDuckGo](http://duckduckgo.com/) -
+- [Wolfram|Alpha: Making the world’s knowledge computable](https://www.wolframalpha.com/) -
+- [Baidu (China)](http://www.baidu.com/) -
+- [Bing](https://bing.start.me/?a=gsb_startme_00_00_ssg01) -
+- [Bing vs. Google](http://bvsg.org/) -
+- [Dogpile Web Search](http://www.dogpile.com/) -
+- [Dataset Search](https://toolbox.google.com/datasetsearch) -
+- [eTools.ch - multiple search engines at once](http://www.etools.ch/) -
+- [Image Identify Project](https://www.imageidentify.com/) -
+- [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](https://archive.org/) -
+- [Qwant](http://qwant.com/) -
+- [Yamii (Arabic)](https://www.yamli.com/arabic-keyboard/) -
+- [Yandex (RU)](http://yandex.ru/) -
+- [Yippy.com](http://www.yippy.com/) -
+- [Internet Map](https://internet-map.net/) -
+- [Snapito](https://snapito.com/) -
+- [web-capture.net](https://web-capture.net/) -
+- [carrot2](https://search.carrot2.org/#/search/web) -
+- [NAPALM FTP Indexer](https://www.searchftps.net/) -
+- [Unpaywall](https://unpaywall.org/) -
+- [MetaGer](https://metager.de/) -
+
 ## People Search
 - [PEP Checks and Sanction Screening](https://namescan.io/) -
 - [Everypolitician.org](http://everypolitician.org/) -

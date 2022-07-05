@@ -6,6 +6,12 @@
 - [Nocodb](https://www.nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
 - [Baserow](https://baserow.io/) - Create your own online database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser.
 - [frappeframework](https://frappeframework.com/) - Low code, open source, web framework in Python and Javascript for the 21st century
+- [directus](https://directus.io/) - With over 19 million downloads, Directus is the world's first Open Data Platform for instantly turning any SQL database into an API and beautiful no-code app.
+- [convertigo](https://www.convertigo.com/) - The first open source Enterprise Grade Low Code / No Code platform to accelerate your Enterprise digitalization for reasonable costs
+- [Saltcorn](https://saltcorn.com/) - Saltcorn is a platform for building database web applications without writing a single line of code. Use the intuitive point-and-click, drag-and-drop user interface to build the whole application.
+- [ROWY](https://www.rowy.io/) - Connect to your database and build cloud functions. All in your browser. Forget CLIs, configs, and DevOps. Focus on building your apps.
+- [Getmotoradmin](https://www.getmotoradmin.com/) - Stop wasting time on custom internal tools and focus on the actual product. Motor Admin allows to launch a custom admin panel for any application.
+- [nocobase](https://www.nocobase.com/) - No programming required, build your own collaboration platform, management system with NocoBase in minutes.
 
 ## Automation
 - [ifttt](https://ifttt.com/) - Quickly and easily automate your favorite apps and devices.

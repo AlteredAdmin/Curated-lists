@@ -5,7 +5,7 @@
 - [Tooljet](https://www.tooljet.com/) - Open-source low-code framework to build & deploy internal tools within minutes.
 - [Nocodb](https://www.nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
 - [Baserow](https://baserow.io/) - Create your own online database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser.
-[frappeframework](https://frappeframework.com/) - Low code, open source, web framework in Python and Javascript for the 21st century
+- [frappeframework](https://frappeframework.com/) - Low code, open source, web framework in Python and Javascript for the 21st century
 
 ## Automation
 - [ifttt](https://ifttt.com/) - Quickly and easily automate your favorite apps and devices.

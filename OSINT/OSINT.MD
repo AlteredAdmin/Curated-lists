@@ -2,7 +2,7 @@
 
 
 ## Training
-- [LibGuides: Intelligence Studies: Open-Source Intelligence (OSINT)](https://usnwc.libguides.com/c.php?g=494120&p=3420732) -
+- [LibGuides: Intelligence Studies: Open-Source Intelligence (OSINT)](https://usnwc.libguides.com/c.php?g=494120&p=3420732) - This research guide contains information-- both current and historical--on the topic of intelligence.
 - [OSINT: How to find information on anyone](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56) -
 - [Magma.lavafeld.org](https://magma.lavafeld.org/) -
 - [Learn â€“ Google Earth OutreachGroupfacebooktwitter](https://www.google.com/earth/outreach/learn/) -

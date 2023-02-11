@@ -12,24 +12,27 @@
 - [Detecting Fake Viral Stories Before They Become Viral Using FB API - By Florin Badita](https://hackernoon.com/detecting-fake-viral-stories-before-they-become-viral-using-fb-api-f67a18cd4f0a?source=rss) - By automatic crawling the FB pages that usually share fake or misleading articles, journalists can see the “next lies” before they are already so popular so even if you will explain that something is not true, more people had heared the fake version.
 - [Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/) - Investigative journalists are now on the job in more than a hundred countries, following trails and connecting with their colleagues in a more organized, more profound way than ever before. They have become, in effect, the “special forces” of global journalism. To succeed, journalists worldwide need the best training and technology to do their jobs. That’s why the Global Investigative Journalism Network is here.
 - [Intro to I2P](https://medium.com/@mhatta/have-fun-with-i2p-the-2018-edition-6ed61af3ad79) - An easy, concise, and up-to-date introduction to the I2P anonymous network.
-- [We are OSINTCurio.us](https://osintcurio.us/) -
-- [OSINT Handbook 2018](https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf) -
-- [Exposing the Invisible](https://exposingtheinvisible.org/) -
-- [CaseFile â€“ Visualization of Information](https://corma.de/en/casefile-visualization-of-information-investigation/) -
-- [Verification Handbook: homepage](https://verificationhandbook.com/) -
-- [comp3321 NSA Python Training Document : NSA : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/comp3321/page/n5/mode/2up/search/device) -
-- [Research Clinic](http://www.researchclinic.net/) -
-- [CNS New Tools Courseware Portfolio â€“ Learn. Investigate. Discover.](https://learn-new-tools.org/) -
+- [We are OSINTCurio.us](https://osintcurio.us/) - The OSINT Curious Project is a source of quality, actionable, Open Source Intelligence news, original blogs, instructional videos, and live streams. We try to keep people curious about exploring web applications for bits of information or trying out new techniques to access important OSINT data.
+- [OSINT Handbook 2018](https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf) - delighted to share the latest version of our OSINT Tools and Resources Handbook. This
+version is almost three times the size of the last public release in 2016. It reflects the changing
+intelligence needs of our clients in both the public and private sector, as well as the many
+areas we have been active in over the past two years. 
+- [Exposing the Invisible](https://exposingtheinvisible.org/) - Through series of short films, video interviews, guides, resources, online and offline training and workshops, Exposing the Invisible engages with different techniques, tools and methods along with the individual practices of those working at the new frontiers of investigation.
+- [CaseFile Visualization of Information](https://corma.de/en/casefile-visualization-of-information-investigation/) - corma is your partner for international corporate investigations, research, intelligence solutions and training. We offer professional support in cases of fraud, counterfeit or cybercrime or take action to improve corporate security. Companies in need of a competent partner receive valuable help as well as effective solutions for their individual problems, even when it comes to complex matters that require a high level of expertise. 
+- [Verification Handbook: homepage](https://verificationhandbook.com/) - When a crisis breaks, trusted sources such as news and aid organisations must sift through and verify the mass of reports being shared and published, and report back to the public with accurate, fact-checked information The handbook provides actionable advice to facilitate disaster preparedness in newsrooms, and best practices for how to verify and use information, photos and videos provided by the crowd.
+- [comp3321 NSA Python Training Document : NSA : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/comp3321/page/n5/mode/2up/search/device) - A document that NSA uses for teaching Python.  This was obtained via a FOIA request, per https://twitter.com/chris_swenson/status/1225836060938125313?s=09
+- [Research Clinic](http://www.researchclinic.net/) - Established in 2003, Research Clinic features internet research links and study material. It accompanies the training courses delivered by internet research specialist Paul Myers.
+- [CNS New Tools Courseware Portfolio Learn. Investigate. Discover.](https://learn-new-tools.org/) - The courses hosted on this website were developed by researchers at the James Martin Center for Nonproliferation Studies with support from the Skoll Global Threats Fund.
 - [Dark Web Tools](https://iaca-darkweb-tools.com/) -
-- [GIJN - Toolbox](https://gijn.org/2018/11/07/gijn-toolbox/) -
-- [European Country of Origin Information Network](https://www.ecoi.net/en/coi-resources/training/) -
+- [GIJN - Toolbox](https://gijn.org/2018/11/07/gijn-toolbox/) - When it comes to doing investigations using online tools, there is no one tool that will answer all of your questions. Instead you’ll most likely need to build slowly toward the answer using a jumble of jigsaw pieces — a name here, a connection there. The good news, though, is that thanks to the internet and social media, there are dozens of tools that can be used to find the pieces to your puzzle. With this in mind, this month’s Investigate Toolbox has a strong focus on the kinds of tools that can be used to find the necessary snippets to build a profile of someone.
+- [European Country of Origin Information Network](https://www.ecoi.net/en/coi-resources/training/) - ecoi.net, the country of origin information system of the Austrian Red Cross’ department ACCORD, aims at contributing to fair and efficient refugee status determination procedures by securing easy and fast access to high-quality and up-to-date country of origin information (COI) for all actors involved in asylum cases.
 - [Coronavirus: Resources for reporters - First DraftCoronavirus: Resources for reporters - First Draft](https://firstdraftnews.org/long-form-article/coronavirus-resources-for-reporters/) -
-- [VIS](https://vis.occrp.org/) -
-- [Kumu](https://kumu.io/) -
-- [bellingcat - A Beginner's Guide To Flight Tracking - bellingcat](https://www.bellingcat.com/resources/how-tos/2019/10/15/a-beginners-guide-to-flight-tracking/) -
-- [bellingcat - How To Tell Stories: A Beginner's Guide For Open Source Researchers - bellingcat](https://www.bellingcat.com/resources/2019/07/12/how-to-tell-stories-a-beginners-guide-for-open-source-researchers/) -
-- [Open-Source Intelligence (OSINT) - Intelligence Studies - LibGuides at Naval War College](https://usnwc.libguides.com/c.php?g=494120&p=3420732) -
-- [The Most Comprehensive TweetDeck Research Guide In Existence (Probably)](https://www.bellingcat.com/resources/how-tos/2019/06/21/the-most-comprehensive-tweetdeck-research-guide-in-existence-probably/) -
+- [VIS](https://vis.occrp.org/) - (VIS) is a data visualization platform designed to assist investigative journalists, activists and others in mapping complex business or crime networks. Our aim is to help investigators understand and explain corruption, organized crime and other wrongdoings and to translate complex narratives into simple, universal visual language.
+- [Kumu](https://kumu.io/) - Kumu makes it easy to organize complex data into relationship maps that are beautiful to look at and a pleasure to use.
+- [bellingcat - A Beginner's Guide To Flight Tracking - bellingcat](https://www.bellingcat.com/resources/how-tos/2019/10/15/a-beginners-guide-to-flight-tracking/) - Flight tracking is an accessible and useful tool for open source investigators. Being able to track the movements of aircraft belonging to powerful individuals and armed forces can add important details to stories, or even uncover entire new narratives. There are several commercial and hobby websites that allow us to do just that.
+- [bellingcat - How To Tell Stories: A Beginner's Guide For Open Source Researchers - bellingcat](https://www.bellingcat.com/resources/2019/07/12/how-to-tell-stories-a-beginners-guide-for-open-source-researchers/) - Many open source researchers rely on journalists to turn data into a narrative that will then reach a wider audience. Yet journalism today is in a crisis! You can trust me as a person who comes from a traditional journalism background — oh, the sheer amount of horror stories I can tell over whiskey.
+- [Open-Source Intelligence (OSINT) - Intelligence Studies - LibGuides at Naval War College](https://usnwc.libguides.com/c.php?g=494120&p=3420732) - This research guide contains information-- both current and historical--on the topic of intelligence. Areas covered include intelligence collection, the intelligence cycle, and also topics such as counterintelligence and cyber intelligence.
+- [The Most Comprehensive TweetDeck Research Guide In Existence (Probably)](https://www.bellingcat.com/resources/how-tos/2019/06/21/the-most-comprehensive-tweetdeck-research-guide-in-existence-probably/) - To some researchers, TweetDeck might seem superfluous in a world where Twitter Advanced Search exists. The platform would appear to be just a prettier version of what you are already doing through Twitter. However, I am here to show you how TweetDeck can vastly simplify and organize your research while allowing you to collect a greater amount of information with less time and effort.
 - [https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf](https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf) -
 - [Getting Started With Spiderfoot â€“ A Beginnerâ€™s Guide â€“ NixIntel](https://nixintel.info/osint-tools/getting-started-with-spiderfoot/) -
 - [OSINT on the Ocean: Maritime Intelligence Gathering Techniques â€“ Rae BakerInvite to discussScroll Top](https://www.peerlyst.com/posts/osint-on-the-ocean-maritime-intelligence-gathering-techniques-rae-baker) -
@@ -72,7 +75,6 @@
 - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) -
 - [Static and dynamic network visualization with R](https://kateto.net/network-visualization) -
 - [DataJournalism.com](https://datajournalism.com/) -
-- []() -
 - [Manipulated Media](https://www.reuters.com/manipulatedmedia) -
 - [Audio Fakes](https://motherboard.vice.com/en_us/article/3k7mgn/baidu-deep-voice-software-can-clone-anyones-voice-with-just-37-seconds-of-audio) -
 - [Magma.lavafeld.org](https://magma.lavafeld.org/) -
@@ -91,8 +93,8 @@
 - [GeoGuessr- The Top Tips, Tricks and Techniques](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) -
 - [What's Being Done to Fight Disinformation Online](https://www.rand.org/research/projects/truth-decay/fighting-disinformation.html) -
 - [Tools That Fight Disinformation Online](https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search.html) -
-- [Newsguardtech.com](https://www.newsguardtech.com/) -
-- [https://iffy.news/iffy-plus/](https://iffy.news/iffy-plus/) -
+- [Newsguardtech.com](https://www.newsguardtech.com/) - NewsGuard is a tool that shows you trust scores and ratings for more than 8,500 news and information websites as you browse the internet. It is installed as a browser extension that works within your internet browser as you search for news and information online. NewsGuard scores and ratings are also available as an app on mobile devices and are integrated directly into products such as the Microsoft Edge mobile app and Neeva search engine through licensing partnerships.
+- [Iffy.news](https://iffy.news/iffy-plus/) - The goal is to give researchers a more complete, current, and accurate dataset of sites that spread mis/disinformation, which will lead to more accurate disinformation research. See The Iffy Evolution for the history of this project and its Poynter past.
 
 ## Company Information
 **Databases containing company information.**

@@ -94,7 +94,6 @@
 
 - [Searchenginesindex.com](https://searchenginesindex.com/) -
 - [The Search Engine Map](https://www.searchenginemap.com/) -
-- [Google Factcheck Explorer](https://toolbox.google.com/factcheck/explorer) -
 - [Interactive online Google tutorial and references](http://www.googleguide.com/) -
 - [I Search From](http://isearchfrom.com/) -
 - [Google.com](https://google.com/) -

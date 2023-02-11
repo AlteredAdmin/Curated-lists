@@ -263,4 +263,4 @@
 - [OSoMe: Social Media Observatory](https://osome.iuni.iu.edu/tools/) - Tools created by the OSoMe team.
 - [Dark Web Tools](https://iaca-darkweb-tools.com/) -
 - [Deepfakes Club](https://www.deepfakes.club/) - the leading software for creating deepfakes
-- [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/) - Using generative adversarial networks (GAN), we can learn how to create realistic-looking fake versions of almost anything, as shown by this collection of sites that have sprung up in the past month. Learn how it works.
+- [This X does not exist](https://thisxdoesnotexist.com/) - Using generative adversarial networks (GAN), we can learn how to create realistic-looking fake versions of almost anything, as shown by this collection of sites that have sprung up in the past month. Learn how it works.

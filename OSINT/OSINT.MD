@@ -7,12 +7,11 @@
 - [Magma.lavafeld.org](https://magma.lavafeld.org/) - Your first stop when conducting research on information controls, Internet censorship, and online surveillance.
 - [Learn Google Earth Outreach](https://www.google.com/earth/outreach/learn/) - Kickstart your map-making with Google Earth and Google Maps with these step-by-step tutorials.
 - [Investigations KIT](https://kit.exposingtheinvisible.org/) - The Kit is a collaborative, self-learning resource that makes investigative techniques and tools used by experienced investigators more accessible to people and communities who feel motivated to start their own investigations, collect and verify information, build evidence and create a better understanding of issues without losing sight of ethical or safety considerations. 
-- [BIRD - BIRN Investigative Resource Desk](https://bird.tools/) -
-- [Bird.tools](https://bird.tools/) -
-- [Security Education Companion](https://sec.eff.org/) -
-- [Detecting Fake Viral Stories Before They Become Viral Using FB API - By Florin Badita](https://hackernoon.com/detecting-fake-viral-stories-before-they-become-viral-using-fb-api-f67a18cd4f0a?source=rss) -
-- [Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/) -
-- [Intro to I2P](https://medium.com/@mhatta/have-fun-with-i2p-the-2018-edition-6ed61af3ad79) -
+- [Bird.tools](https://bird.tools/) - BIRN Investigative Resource Desk is an innovative interactive platform created for journalists who want to keep up-to-date with the fast-changing world of technology without sacrificing their ethics or the standards of professional journalism.
+- [Security Education Companion](https://sec.eff.org/) - SEC is a resource for people teaching digital security to their friends and neighbors. If you’d like to help your community learn about digital security but aren’t sure where to start, these articles, lesson plans, and teaching materials are for you!
+- [Detecting Fake Viral Stories Before They Become Viral Using FB API - By Florin Badita](https://hackernoon.com/detecting-fake-viral-stories-before-they-become-viral-using-fb-api-f67a18cd4f0a?source=rss) - By automatic crawling the FB pages that usually share fake or misleading articles, journalists can see the “next lies” before they are already so popular so even if you will explain that something is not true, more people had heared the fake version.
+- [Citizen Investigation Guide](https://gijn.org/citizen-investigation-guide/) - Investigative journalists are now on the job in more than a hundred countries, following trails and connecting with their colleagues in a more organized, more profound way than ever before. They have become, in effect, the “special forces” of global journalism. To succeed, journalists worldwide need the best training and technology to do their jobs. That’s why the Global Investigative Journalism Network is here.
+- [Intro to I2P](https://medium.com/@mhatta/have-fun-with-i2p-the-2018-edition-6ed61af3ad79) - An easy, concise, and up-to-date introduction to the I2P anonymous network.
 - [We are OSINTCurio.us](https://osintcurio.us/) -
 - [OSINT Handbook 2018](https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf) -
 - [Exposing the Invisible](https://exposingtheinvisible.org/) -

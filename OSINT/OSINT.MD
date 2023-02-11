@@ -35,32 +35,26 @@ areas we have been active in over the past two years.
 - [The Most Comprehensive TweetDeck Research Guide In Existence (Probably)](https://www.bellingcat.com/resources/how-tos/2019/06/21/the-most-comprehensive-tweetdeck-research-guide-in-existence-probably/) - To some researchers, TweetDeck might seem superfluous in a world where Twitter Advanced Search exists. The platform would appear to be just a prettier version of what you are already doing through Twitter. However, I am here to show you how TweetDeck can vastly simplify and organize your research while allowing you to collect a greater amount of information with less time and effort.
 - [https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf](https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf) - Shaydanay Urbani is a writer and research reporter at First Draft, where she covers disinformation and trains journalists internationally in verification and responsible reporting. She has a background in criminal justice reporting, Middle Eastern languages and politics, and food policy, as well as a masters in journalism from The City University of New York.
 - [Getting Started With Spiderfoot A Beginners Guide NixIntel](https://nixintel.info/osint-tools/getting-started-with-spiderfoot/) - t automates a huge number of queries that would take a long time to do manually. It comes with a wide range of modules that will conduct automated searches for e-mail addresses, IP addresses, domains, phone numbers, usernames, and other types of data. This post will show you how to install and set up Spiderfoot from scratch, and how to conduct a few basic queries.
-- [OSINT on the Ocean: Maritime Intelligence Gathering Techniques â€“ Rae BakerInvite to discussScroll Top](https://www.peerlyst.com/posts/osint-on-the-ocean-maritime-intelligence-gathering-techniques-rae-baker) -
-- [https://corporatewatch.org/wp-content/uploads/2017/09/Investigating-Companies-Corporate-Watch.pdf](https://corporatewatch.org/wp-content/uploads/2017/09/Investigating-Companies-Corporate-Watch.pdf) -
-- [https://www.journaliststoolbox.org/2020/01/22/online_journalism/](https://www.journaliststoolbox.org/2020/01/22/online_journalism/) -
-- [My Favorite Tools: Lionel Faull - Global Investigative Journalism Network](https://gijn.org/2020/01/21/my-favorite-tools-lionel-faull/) -
-- [Data Journalism : / Help Desk](https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism) -
-- [Education | Sentinel Hub](https://www.sentinel-hub.com/explore/education) -
-- [Draw.io](https://www.draw.io/) -
-- [The Data Visualisation Catalogue](https://datavizcatalogue.com/) -
-- [Learn â€“ Google Earth OutreachGroupfacebooktwitter](https://www.google.com/earth/outreach/learn/) -
-- [Learn â€“ Google Earth OutreachGroupfacebooktwitter](https://www.google.com/earth/outreach/learn/) -
-- [Osinteditor.com](http://www.osinteditor.com/) -
-- [Violations de lâ€™embargo sur les armes en Libye â€“ Guide mÃ©thodologique | OpenFacto](https://t.co/0NG2oyTpAw?amp=1) -
-- [Problem-Solving Techniques](https://www.mindtools.com/pages/main/newMN_TMC.htm) -
-- [Country & Area Assessments](https://www.osintcombine.com/post/country-area-assessments) -
-- [OSINT Collection Schema](https://www.osintcombine.com/post/osint-collection-schema) -
-- [Corporate Profiling](https://www.osintcombine.com/post/corporate-profiling-advanced-linkedin-searching-more) -
-- [Naming conventions internationally](https://www.fbiic.gov/public/2008/nov/Naming_practice_guide_UK_2006.pdf) -
-- [Walkthrough: Tracking the spread of the debunked Plandemic video](https://dfrlab.github.io/Plandemic/) -
-- [https://www.social-engineer.org/framework/general-discussion/](https://www.social-engineer.org/framework/general-discussion/) -
-- [https://medium.com/@zacherytysonbrown/write-like-an-intelligence-analyst-34d06738d2ef](https://medium.com/@zacherytysonbrown/write-like-an-intelligence-analyst-34d06738d2ef) -
-- [Intelligence Writing - Writing - LibGuides at Embry-Riddle Aeronautical University - Prescott Campus](https://erau.libguides.com/c.php?g=331035&p=2222278) -
-- [Sources And Methods](https://sourcesandmethods.blogspot.com/) -
-- [Tutorial - Maltego](https://www.maltego.com/categories/tutorial/) -
-- [US 2020 Dashboard: Live insights on information disorderUS 2020 Dashboard: Live insights on information disorder](https://firstdraftnews.org/dashboard-insights/) -
-- [Military Wiki](https://military.wikia.org/wiki/Main_Page) -
-- [Intelligence Online](https://www.intelligenceonline.com/) -
+- [Corporatewatch: Investigating CompaniesA Do-It-Yourself Handbook](https://corporatewatch.org/wp-content/uploads/2017/09/Investigating-Companies-Corporate-Watch.pdf) - The more you know about a company that is messing you around, the more effective your challenge against it can be. This handbook is designed to help you find and understand the information you need
+- [Journaliststoolbox.org](https://www.journaliststoolbox.org/2020/01/22/online_journalism/) - The Journalist’s Toolbox is edited by University of Illinois-Chicago journalism senior lecturer Mike Reilley, who founded the site in 1996.
+- [My Favorite Tools: Lionel Faull - Global Investigative Journalism Network](https://gijn.org/2020/01/21/my-favorite-tools-lionel-faull/) - What tools do investigative journalists use in the course of their work? In GIJN’s My Tools series, we ask journalists from around the world to share some of their favorites with our readers.
+- [Data Journalism : / Help Desk](https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism) - We begin with the best general training materials and then dive into the most useful tools. The entries in each category are alphabetical, with links and brief descriptions. Read this page translated in Hausa.
+- [Education | Sentinel Hub](https://www.sentinel-hub.com/explore/education) - Here you can find tutorials, user guides and examples of how you can use satellite imagery to analyze various phenomena and events around the globe. With these resources we want to help you get familiar with satellite imagery and show you how to use some of the freely available tools for your analysis.
+- [Draw.io](https://www.draw.io/) - diagrams.net/draw.io is an open source technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/) - The Data Visualisation Catalogue is a project developed by Severino Ribecca to create a (non-code-based) library of different information visualisation types. The website serves as a learning and inspiration resource for those working with data visualisation.
+- [Problem-Solving Techniques](https://www.mindtools.com/pages/main/newMN_TMC.htm) - Mind Tools provides reliable support, helping to develop your wellbeing and career skills, at a time and place that suits you.
+- [Country & Area Assessments](https://www.osintcombine.com/post/country-area-assessments) - Area assessments are an excellent start point for understanding an operating environment. Possible outputs include:
+- [OSINT Collection Schema](https://www.osintcombine.com/post/osint-collection-schema) - There is a lot of great information and tools out there that focus on "how" to collect publicly available information and equally a lot of great courses that develop an analytical mindset to derive the real value from open source information and produce actual intelligence. However, there is often a void for newcomers and seasoned OSINT practitioners alike when addressing the following 3 critical questions:
+- [Corporate Profiling](https://www.osintcombine.com/post/corporate-profiling-advanced-linkedin-searching-more) - Corporate profiling is critical part of many investigations. The use-cases are vast including corporate due diligence, pre-hire screening, insider threat identification and more. Learning how to efficiently find and collect information for analysis based on your use case is what this blog post will focus on. There will be a heavy focus on LinkedIn advanced searching & navigating but also look at other data points to support your investigations. 
+- [Naming conventions internationally](https://www.fbiic.gov/public/2008/nov/Naming_practice_guide_UK_2006.pdf) - Names are a valuable source of information. They can indicate gender, marital status, birthplace, nationality, ethnicity, religion, and position within a family or even within a society. However, naming practices vary enormously across the globe. The aim of this guide is to identify the knowledge that can be gained from names about their holders and to help overcome difficulties that are commonly encountered with names of foreign origin.
+- [social-engineer.org](https://www.social-engineer.org/framework/general-discussion/) - the Framework contains some of the most current scientific, technical and psychological information on the topic of social engineering today. Our goal is to create a repository of information for the security professional, penetration tester or enthusiast.
+- [How You Can Write Like An Intelligence Analyst](https://medium.com/@zacherytysonbrown/write-like-an-intelligence-analyst-34d06738d2ef) - Being able to write well — by which I mean with clarity and concision — is an essential skill, even in the TikTok age. People today are both busier than ever and inundated with information; good writing is often the only thing that will make your content stand out.
+- [Intelligence Writing - Writing - LibGuides at Embry-Riddle Aeronautical University - Prescott Campus](https://erau.libguides.com/c.php?g=331035&p=2222278) - Writing: Intelligence Writing
+- [Sources And Methods](https://sourcesandmethods.blogspot.com/) - THINKING ABOUT THE FUTURE, AND, MORE IMPORTANTLY, HOW TO THINK ABOUT THE FUTURE.
+- [Tutorial - Maltego](https://www.maltego.com/categories/tutorial/) - Training for Your Maltego Needs
+- [US 2020 Dashboard: Live insights on information disorder](https://firstdraftnews.org/dashboard-insights/) - Our dashboard offers insights daily for an at-a-glance snapshot on what our investigative research team sees online. We’ll provide context and suggest how to proceed with the information for your audiences. Journalists can request access to @FD_Update for more team insights.
+- [Military Wiki](https://military.wikia.org/wiki/Main_Page) - Welcome to Military Wiki, the World's largest, free, interactive online Military encyclopedia that anybody can edit!
+- [Intelligence Online](https://www.intelligenceonline.com/) - Intelligence Online publishes daily exclusive information essential to understanding the intelligence world.
 - [OSINT Iran: passive reconnaissance of Iranian IP space, IoT, WiFi networks, social media and more â€“ osintme.com](https://web.archive.org/web/20210206085713/https://www.osintme.com/index.php/2020/12/23/osint-iran-passive-reconnaissance-of-iranian-ip-space-iot-wifi-networks-social-media-and-more/) -
 - [Overview of Corporate Research Articles - OSINTEditor](https://www.osinteditor.com/general/overview-of-corporate-research-articles/) -
 - [bird.tools/wp-content/uploads/2019/12/13082019_Osint-guide_v2fin.1.pdf](https://bird.tools/wp-content/uploads/2019/12/13082019_Osint-guide_v2fin.1.pdf) -
@@ -237,7 +231,7 @@ areas we have been active in over the past two years.
 - [Satellite Viewer](https://maps.esri.com/rc/sat/index.html) -
 - [Smapshot.heig-vd.ch](https://smapshot.heig-vd.ch/) -
 - [EarthExplorer](https://earthexplorer.usgs.gov/) -
-- - [https://web.archive.org/web/https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/](https://web.archive.org/web/https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) -
+- [https://web.archive.org/web/https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/](https://web.archive.org/web/https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) -
 - [EarthExplorer](https://earthexplorer.usgs.gov/) -
 - [https://i.redd.it/lxtu47hf5ll51.jpg](https://i.redd.it/lxtu47hf5ll51.jpg) -
 - [https://i.redd.it/16rncxw7w1j51.png](https://i.redd.it/16rncxw7w1j51.png) -
@@ -282,3 +276,7 @@ areas we have been active in over the past two years.
 - [Crewdata.com](https://crewdata.com/) -
 - [Jobs At Sea](http://maritime-connector.com/) -
 - [Military Ship Tracker](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html) -
+
+## Tools
+- [Draw.io](https://www.draw.io/) - diagrams.net/draw.io is an open source technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/) - The Data Visualisation Catalogue is a project developed by Severino Ribecca to create a (non-code-based) library of different information visualisation types. The website serves as a learning and inspiration resource for those working with data visualisation.

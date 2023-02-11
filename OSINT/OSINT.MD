@@ -3,10 +3,10 @@
 
 ## Training
 - [LibGuides: Intelligence Studies: Open-Source Intelligence (OSINT)](https://usnwc.libguides.com/c.php?g=494120&p=3420732) - This research guide contains information-- both current and historical--on the topic of intelligence.
-- [OSINT: How to find information on anyone](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56) -
-- [Magma.lavafeld.org](https://magma.lavafeld.org/) -
-- [Learn â€“ Google Earth OutreachGroupfacebooktwitter](https://www.google.com/earth/outreach/learn/) -
-- [Investigations KIT](https://kit.exposingtheinvisible.org/) -
+- [OSINT: How to find information on anyone](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56) - OSINT) — is information gathering from publicly available sources and its analysis to produce an actionable intelligence. The scope of OSINT is not limited to cybersecurity only but corporate, business and military intelligence or other fields where information matters
+- [Magma.lavafeld.org](https://magma.lavafeld.org/) - Your first stop when conducting research on information controls, Internet censorship, and online surveillance.
+- [Learn Google Earth Outreach](https://www.google.com/earth/outreach/learn/) - Kickstart your map-making with Google Earth and Google Maps with these step-by-step tutorials.
+- [Investigations KIT](https://kit.exposingtheinvisible.org/) - The Kit is a collaborative, self-learning resource that makes investigative techniques and tools used by experienced investigators more accessible to people and communities who feel motivated to start their own investigations, collect and verify information, build evidence and create a better understanding of issues without losing sight of ethical or safety considerations. 
 - [BIRD - BIRN Investigative Resource Desk](https://bird.tools/) -
 - [Bird.tools](https://bird.tools/) -
 - [Security Education Companion](https://sec.eff.org/) -

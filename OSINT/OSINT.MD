@@ -55,30 +55,17 @@ areas we have been active in over the past two years.
 - [US 2020 Dashboard: Live insights on information disorder](https://firstdraftnews.org/dashboard-insights/) - Our dashboard offers insights daily for an at-a-glance snapshot on what our investigative research team sees online. We’ll provide context and suggest how to proceed with the information for your audiences. Journalists can request access to @FD_Update for more team insights.
 - [Military Wiki](https://military.wikia.org/wiki/Main_Page) - Welcome to Military Wiki, the World's largest, free, interactive online Military encyclopedia that anybody can edit!
 - [Intelligence Online](https://www.intelligenceonline.com/) - Intelligence Online publishes daily exclusive information essential to understanding the intelligence world.
-- [OSINT Iran: passive reconnaissance of Iranian IP space, IoT, WiFi networks, social media and more â€“ osintme.com](https://web.archive.org/web/20210206085713/https://www.osintme.com/index.php/2020/12/23/osint-iran-passive-reconnaissance-of-iranian-ip-space-iot-wifi-networks-social-media-and-more/) -
-- [Overview of Corporate Research Articles - OSINTEditor](https://www.osinteditor.com/general/overview-of-corporate-research-articles/) -
-- [bird.tools/wp-content/uploads/2019/12/13082019_Osint-guide_v2fin.1.pdf](https://bird.tools/wp-content/uploads/2019/12/13082019_Osint-guide_v2fin.1.pdf) -
-- [GeoGuessr- The Top Tips, Tricks and Techniques | Random Stuff](https://web.archive.org/web/20210212090412/https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) -
-- [https://github.com/matteo-grella/tweetdeck-scraper](https://github.com/matteo-grella/tweetdeck-scraper) -
-- [Sponsor @anvaka on GitHub Sponsors Â· GitHub](https://github.com/sponsors/anvaka) -
-- [www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf) -
-- [www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf](https://www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf) -
-- [D3Js](https://d3js.org/) -
-- [Critical Thinking](https://www.criticalthinking.org/) -
-- [Google's Python Class | Python Education | Google Developers](https://developers.google.com/edu/python/) -
-- [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) -
-- [Static and dynamic network visualization with R](https://kateto.net/network-visualization) -
-- [DataJournalism.com](https://datajournalism.com/) -
-- [Manipulated Media](https://www.reuters.com/manipulatedmedia) -
-- [Audio Fakes](https://motherboard.vice.com/en_us/article/3k7mgn/baidu-deep-voice-software-can-clone-anyones-voice-with-just-37-seconds-of-audio) -
-- [Magma.lavafeld.org](https://magma.lavafeld.org/) -
-- [Deepfakes Club](https://www.deepfakes.club/) -
-- [GitHub - DFRLab/Dichotomies-of-Disinformation](https://github.com/DFRLab/Dichotomies-of-Disinformation) -
-- [Project Voco](https://www.bbc.co.uk/news/technology-37899902) -
-- [Data Visualizer | Jigsaw](http://jigsaw.google.com/the-current/disinformation/dataviz/) -
-- [Fake news. It's complicated.Fake news. It's complicated.](https://firstdraftnews.org/latest/fake-news-complicated/) -
-- [OSoMe: Social Media Observatory](https://osome.iuni.iu.edu/tools/) -
-- [Hamilton Monitored Accounts on Twitter â€“ Alliance For Securing Democracy](https://securingdemocracy.gmfus.org/hamilton-monitored-accounts-on-twitter/) -
+- [https://github.com/matteo-grella/tweetdeck-scraper](https://github.com/matteo-grella/tweetdeck-scraper) - A docker container wrapping a tool to continuously scrape Tweetdeck tweets, store them in ElasticSearch and add scraped ids to a RabbitMQ queue.
+- [www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf) - The Intelligence Community (IC) is strongly emphasizing the use of structured analytic techniques (SATs) to promote rigorous analysis, lessen the risk of intelligence failure, and make analysts’ reasoning more transparent to consumers
+- [Pyschology of Intelligence Analysis pdf](https://www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf) -
+- [D3Js](https://d3js.org/) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+- [Critical Thinking](https://www.criticalthinking.org/) - The Center for Critical Thinking and Moral Critique and the Foundation for Critical Thinking — two sister educational non-profit organizations — work closely together to promote educational reform. We seek to promote essential change in education and society through the cultivation of fairminded critical thinking.
+- [Google's Python Class | Python Education | Google Developers](https://developers.google.com/edu/python/) -  this is a free class for people with a little bit of programming experience who want to learn Python.
+- [DataJournalism.com](https://datajournalism.com/) - Where journalism meets data
+- [Manipulated Media](https://www.reuters.com/manipulatedmedia) - The spread of inaccurate and misleading information is a significant and growing global problem.  It is a major challenge for journalists and a source of alarm for governments, institutions and individuals all over the world.
+- [Audio Fakes](https://motherboard.vice.com/en_us/article/3k7mgn/baidu-deep-voice-software-can-clone-anyones-voice-with-just-37-seconds-of-audio) - ‘Deep Voice’ Software Can Clone Anyone's Voice With Just 3.7 Seconds of Audio
+- [Magma.lavafeld.org](https://magma.lavafeld.org/) - Your first stop when conducting research on information controls, Internet censorship, and online surveillance.
+- [Deepfakes Club](https://www.deepfakes.club/) - the leading software for creating deepfakes
 - [Hamilton 2.0 Dashboard](https://securingdemocracy.gmfus.org/hamilton-dashboard/) - The Hamilton 2.0 Dashboard, a project of the Alliance for Securing Democracy at the German Marshall Fund of the United States, provides a summary analysis of the narratives and topics promoted by Russian, Chinese, and Iranian government officials and state-funded media on Twitter, YouTube, state-sponsored news websites, and via official press releases and transcripts published by their respective ministries of foreign affairs. 
 - [FSI - New White Paper on GRU Online Operations Puts Spotlight on Pseudo-Think Tanks and Personas](https://fsi.stanford.edu/news/potemkin-pages-personas-blog) - The linked white paper and its conclusions are in part based on the analysis of social-media content that was provided to the authors by the Senate Select Committee on Intelligence under the auspices of the Committee’s Technical Advisory Group, whose Members serve to provide substantive technical and expert advice on topics of importance to ongoing Committee activity and oversight. The findings, interpretations, and conclusions presented herein are those of the authors, and do not necessarily represent the views of the Senate Select Committee on Intelligence or its Membership.
 - [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/) - Using generative adversarial networks (GAN), we can learn how to create realistic-looking fake versions of almost anything, as shown by this collection of sites that have sprung up in the past month. Learn how it works.
@@ -280,3 +267,4 @@ areas we have been active in over the past two years.
 ## Tools
 - [Draw.io](https://www.draw.io/) - diagrams.net/draw.io is an open source technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/) - The Data Visualisation Catalogue is a project developed by Severino Ribecca to create a (non-code-based) library of different information visualisation types. The website serves as a learning and inspiration resource for those working with data visualisation.
+- [OSoMe: Social Media Observatory](https://osome.iuni.iu.edu/tools/) - Tools created by the OSoMe team.

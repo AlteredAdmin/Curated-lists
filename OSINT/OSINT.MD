@@ -73,22 +73,19 @@
 
 - [escavador](https://www.escavador.com/) - Search for people, institutions, lawsuits or any term that interests you.
 - [KYC Registry](https://www.escavador.com/) - The registry is a secure global platform providing predefined data fields and document types to standardize and streamline the data collection process.
-- [Databases (Worldwide) - Investigative Dashboard](https://investigativedashboard.org/databases/) -
-- [Opengazettes.com](http://opengazettes.com/) -
-- [OpenCorporates :: The Open Database Of The Corporate World](https://opencorporates.com/) -
-- [Aleph data search](https://data.occrp.org/) -
-- [Overseas registries](https://www.gov.uk/government/publications/overseas-registries/overseas-registries) -
-- [GCRD International | Welcome to GCRD.](https://www.gcrd.info/index.php?id=3814) -
-- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) -
-- [Companies House UK](https://www.gov.uk/get-information-about-a-company) -
-- [Company Check Orbis](https://orbisdirectory.bvdinfo.com/version-20171213/OrbisDirectory/Companies) -
-- [Company Check Zauba](https://www.zaubacorp.com/) -
-- [Company Check](https://companycheck.co.uk/) -
-- [Financial Conduct Authority](https://register.fca.org.uk/) -
-- [The Investigators Handbook: A Guide to Using OpenCorporates](https://blog.opencorporates.com/2017/10/31/the-investigators-handbook-a-guide-to-using-opencorporates/) -
-- [Victims of Offshore: A Video Introduction to the Panama Papers - ICIJ](https://www.icij.org/investigations/panama-papers/video/) -
-- [Business Monitor](https://business-monitor.ch/en) -
-- [aleph.occrp.org](https://aleph.occrp.org/) -
+- [Databases (Worldwide) - Investigative Dashboard](https://investigativedashboard.org/databases/) - collection of public data sources compiled by our researchers that are the most useful for investigative reporting.
+- [Opengazettes.com](http://opengazettes.com/) - Government gazettes are the notice of record for many key events. For example, a notice about company liquidation will appear in the gazette weeks before appearing on the company register, and will contain information you can’t find elsewhere.
+- [OpenCorporates :: The Open Database Of The Corporate World](https://opencorporates.com/) - The largest open database of companies in the world
+- [Aleph data search](https://data.occrp.org/) - The global archive of research material for investigative reporting.
+- [Overseas registries](https://www.gov.uk/government/publications/overseas-registries/overseas-registries) - Overseas registries
+- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who’s behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
+- [Companies House UK](https://www.gov.uk/get-information-about-a-company) - Get information about a company
+- [Company Check Orbis](https://orbisdirectory.bvdinfo.com/version-20171213/OrbisDirectory/Companies) - Orbis is the world’s most powerful comparable data resource on private companies
+- [Company Check Zauba](https://www.zaubacorp.com/) - Zauba Corp helps you know financial performance of businesses you deal with Access critical documents and information for facts based decision making
+- [Company Check](https://companycheck.co.uk/) - With advanced searching, free company accounts and comprehensive credit reports across the UK & Ireland, Company Check is the UK's most used online business data provider, delivering over 100 million reports to 21 million visitors in 2018 alone.
+- [Financial Conduct Authority](https://register.fca.org.uk/) - In the UK, nearly all financial service activities must be authorised by the Financial Conduct Authority. You can search our Register for firms and individuals and the activities firms have permissions for.
+- [The Investigators Handbook: A Guide to Using OpenCorporates](https://blog.opencorporates.com/2017/10/31/the-investigators-handbook-a-guide-to-using-opencorporates/) - The largest open database of companies in the world
+- [Business Monitor](https://business-monitor.ch/en) - Business information and company addresses for Switzerland
 
 ## General Search engines
 
@@ -263,3 +260,6 @@
 - [Dark Web Tools](https://iaca-darkweb-tools.com/) -
 - [Deepfakes Club](https://www.deepfakes.club/) - the leading software for creating deepfakes
 - [This X does not exist](https://thisxdoesnotexist.com/) - Using generative adversarial networks (GAN), we can learn how to create realistic-looking fake versions of almost anything, as shown by this collection of sites that have sprung up in the past month. Learn how it works.
+
+## Case Studies
+- [Victims of Offshore: A Video Introduction to the Panama Papers - ICIJ](https://www.icij.org/investigations/panama-papers/video/) - Behind the email chains, invoices and documents that make up the Panama Papers are often unseen victims of wrongdoing. This is their story.
